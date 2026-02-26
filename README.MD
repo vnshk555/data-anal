@@ -50,8 +50,6 @@ http://localhost:5000
 * Orders Distribution by City
 * Top 5 Products by Revenue
 
-Добавь сюда скриншоты:
-
 ![img.png](img.png)
 
 ---
