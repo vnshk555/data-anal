@@ -22,7 +22,7 @@ Data Analytics Dashboard (Redash + Docker)
 ### Установка
 
 ```bash
-git clone https://github.com/USERNAME/data-anal.git
+git clone https://github.com/vnshk555/data-anal.git
 cd data-anal
 docker compose up
 ```
